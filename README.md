@@ -1,2 +1,2 @@
 # html-website
-A webpage which shows weather of some cities
+A webpage which shows weather of some cities.
